@@ -13,4 +13,5 @@ Needed HW: RS485 usb dongle
 
 ## Installation ##
 install the req packages from the requirements.txi via pip
+
 pip install -r /path/to/requirements.txt
